@@ -37,7 +37,7 @@ function showCards(m) {
               <div class="card-body">
                 <h5 class="card-title text-primary"><strong>Photo By : ${m.user}</strong></h5>
                 <h6 class="card-subtitle mb-2 text-muted">Likes : ${m.likes}</h6>
-                <h6 class="card-subtitle mb-2 text-muted">Downlaods : ${m.downloads}</h6>
+                <h6 class="card-subtitle mb-2 text-muted">Downloads : ${m.downloads}</h6>
                 <h6 class="card-subtitle mb-2 text-muted">Comments : ${m.comments}</h6>
                 <span class="badge badge-info">${m.tags}</span>
               </div>
